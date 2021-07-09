@@ -1,6 +1,6 @@
 # Module Two Buffer Overflow Activity
 
-[![CodeQL](https://github.com/rowland007/Buffer-Overflow/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rowland007/Buffer-Overflow/actions/workflows/codeql-analysis.yml)
+[![CodeQL](https://github.com/rowland007/Buffer-Overflow/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rowland007/Buffer-Overflow/actions/workflows/codeql-analysis.yml) [![CodeFactor](https://www.codefactor.io/repository/github/rowland007/buffer-overflow/badge)](https://www.codefactor.io/repository/github/rowland007/buffer-overflow)
 
 ## Overview
 
