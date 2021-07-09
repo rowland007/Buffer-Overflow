@@ -1,5 +1,7 @@
 # Module Two Buffer Overflow Activity
 
+[![CodeQL](https://github.com/rowland007/Buffer-Overflow/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rowland007/Buffer-Overflow/actions/workflows/codeql-analysis.yml)
+
 ## Overview
 
 You are a senior software developer on a team of software developers who are responsible for a large banking web application. Your manager has learned that there is some code that seems to randomly change customer account numbers. The other developers spent a lot of time tracing down the issue, and they narrowed it down to when a user inputs a number. Under some circumstances, this resulted in changing the account number. The team has tried a few things, but they are stumped.
