@@ -1,3 +1,30 @@
+/************************************************************************
+ Program:       Buffer Overflow Activity
+ Author:        Randall Rowland (https://github.com/rowland007)
+ Class:         CS-405-T2676 Secure Coding 21EW2
+ Instructor:    Mr. Trevor Hodde
+ Date:          2021-07-09
+ Description:   This assignment presents code that collects a number from the user and then displays the number and a secret account number. 
+                Entering too many characters triggers the overwrite of the account number 
+ Input:         PythonWithExploit.py || PythonWithoutExploit.py
+ Output:
+ Known bugs:    Fixed overwrite of account_number from user input
+ Missing features:
+    The source code has been commented with TODOs to explain the detailed rules
+ you must follow. There are comments that mark code that must be changed. There
+ may be more than one way to solve this problem, so be sure to demonstrate that
+ you can detect an underflow or overflow, prevent it, and communicate it back to
+ the calling function. Remember to leverage capabilities provided by the
+ standard C++ library to help you achieve success.
+
+ License:           GNU General Public License v3.0
+ Modifications:
+   Date                      Comment
+ ---------   ------------------------------------------------
+ 2021JUL07   Add a const buffer limit and use cin.width to restrict user input
+ 2021NOV07   Update comments for new course code and instructor [no code change]
+ ************************************************************************/
+
 // BufferOverflow.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
